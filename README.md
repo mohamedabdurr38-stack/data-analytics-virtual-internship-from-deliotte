@@ -1,0 +1,1 @@
+Computer Networking, Data Analysis, Data Modeling, Data Structures, Data Visualization Tools, Formal Communication, Log Analysis, Planning, Programming, Python Programming, Software Development, Spreadsheet Skills, Web Security
